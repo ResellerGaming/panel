@@ -60,7 +60,7 @@ export default function Home() {
           color: black;
           font-weight: bold;
         }
-      \`}</style>
+      `}</style>
     </main>
   );
 }
